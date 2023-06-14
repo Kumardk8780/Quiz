@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+# **Sample**
+<img width="205" alt="Quiz 1" src="https://github.com/Kumardk8780/Quiz/assets/54668564/9455c218-177f-412a-a753-ffb0a7809c5a">
+<img width="205" alt="Quiz 2" src="https://github.com/Kumardk8780/Quiz/assets/54668564/5d8865b7-2fe6-4241-96b8-9e8418fe9b64">
+<img width="205" alt="Quiz 3" src="https://github.com/Kumardk8780/Quiz/assets/54668564/315b193d-3015-44bf-8f9a-bd137426b1a0">
+
+
 ## Getting Started
 
 A basic quiz app to demonstrate the workin gof flutter and dart.
